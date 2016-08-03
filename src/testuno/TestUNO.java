@@ -45,5 +45,5 @@ public class TestUNO {
 
         }
     }
-    String i = "asd";
+   
 }
